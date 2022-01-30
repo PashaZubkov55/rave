@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'QuiteChocolatey';
+    src: url('QuiteChocolatey.woff2') format('woff2'),
+        url('QuiteChocolatey.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PTSerifRegular';
+    src: url('PTSerif-Regular.woff2') format('woff2'),
+        url('PTSerif-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PTSerifBold';
+    src: url('PTSerif-Bold.woff2') format('woff2'),
+        url('PTSerif-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CoutureBold';
+    src: url('Couture-Bold.woff2') format('woff2'),
+        url('Couture-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MontserratBold';
+    src: url('Montserrat-Bold.woff2') format('woff2'),
+        url('Montserrat-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MontserratRegular';
+    src: url('Montserrat-Regular.woff2') format('woff2'),
+        url('Montserrat-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
